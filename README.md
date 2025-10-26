@@ -4,7 +4,7 @@
 
 ### 🚀 Developer | Problem Solver | Tech Enthusiast from Pakistan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -12,21 +12,13 @@
 
 ## 🎯 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Muneeb-ur-Rehman"
-        self.username = "predictor47"
-        self.location = "Pakistan 🇵🇰"
-        self.interests = ["Coding", "Problem Solving", "Open Source"]
-        self.currently_learning = ["Advanced Algorithms", "System Design"]
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together!")
+🌍 **Location:** Pakistan 🇵🇰  
+💼 **Current Focus:** Building innovative solutions and solving complex problems  
+🎓 **Learning:** Advanced Algorithms & System Design  
+🎯 **Interests:** Coding, Problem Solving, Open Source Contribution  
+💡 **Philosophy:** Always learning, always growing  
 
-me = Developer()
-me.say_hi()
-```
+> *"Thanks for visiting my profile! Let's build something amazing together!"*
 
 ---
 
@@ -70,31 +62,13 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=predictor47&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=predictor47&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 Featured Projects
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<!-- Replace these with your actual repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predictor47&repo=project1&theme=tokyonight)](https://github.com/predictor47/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=predictor47&repo=project2&theme=tokyonight)](https://github.com/predictor47/project2)
+![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=predictor47&theme=tokyonight)
 
 </div>
 
@@ -110,34 +84,24 @@ me.say_hi()
 
 ---
 
+## 🔥 Contribution Stats
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=predictor47&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=predictor47&theme=tokyonight)
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/predictor47/count.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneeb-ur-rehman-a13977207)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneeb.mg47@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/predictor47)
 
 </div>
 
@@ -145,9 +109,13 @@ me.say_hi()
 
 <div align="center">
   
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💬 "First, solve the problem. Then, write the code." – John Johnson
+
+![Profile Views](https://komarev.com/ghpvc/?username=predictor47&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
+
+---
 
 <div align="center">
   
