@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Muneeb-ur-Rehman (@predictor47)
 
-### 🚀 Developer | Problem Solver | Tech Enthusiast from Pakistan
+### 🚀 Developer | Problem Solver | Tech Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" alt="Typing SVG" />
 
