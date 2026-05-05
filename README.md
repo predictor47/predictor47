@@ -1,124 +1,60 @@
-<div align="center">
-  
-# 👋 Hi, I'm Muneeb-ur-Rehman (@predictor47)
+# Muneeb ur Rehman
 
-### 🚀 Developer | Problem Solver | Tech Enthusiast
+**AI Engineer · Full-Stack Developer · Automation Builder**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" alt="Typing SVG" />
+I build production web applications, serverless AWS systems, AI-powered tools, and workflow automation. My work spans product UI, backend architecture, async jobs, ML inference pipelines, browser automation, and research operations systems.
 
+[LinkedIn](https://linkedin.com/in/muneeb-ur-rehman-a13977207) · [Email](mailto:muneeb.mg47@gmail.com) · [DataCamp Certificate](https://www.datacamp.com/certificate/AEDS0017539643800)
+
+## About
+
+- AI Engineer at **Ownova**
+- AI Research Engineer at **Global Research Trends**
+- Based in **Lahore, Pakistan**
+- Interested in **applied AI, cloud-native systems, full-stack product development, automation, and real-world ML deployment**
+
+## What I work on
+
+- **Full-stack apps** with Next.js, React, TypeScript, Python, Django, FastAPI, Flutter, and GraphQL
+- **Serverless AWS systems** using Lambda, API Gateway, Cognito, DynamoDB, S3, CloudFront, SQS, SNS, Amplify Gen 2, and SageMaker
+- **AI and automation workflows** including async inference, data pipelines, browser automation, proxy orchestration, and operational tooling
+- **Research and telephony platforms** involving survey workflows, CATI systems, ViciDial, WebRTC, and data operations
+
+## Selected work
+
+- **SiMologics** *(freelance / client work)* - Cloud-native antibody engineering platform with Next.js, AWS Lambda, Cognito, DynamoDB, SQS, SNS, and SageMaker for async ML workflows, batch jobs, and browser-based scientific tooling
+- **CivilAce** - Exam preparation platform with 3,900+ MCQs, live quiz competitions, proctoring, leaderboards, and an admin workflow
+- **WorldView** - Real-time global events visualizer with a 3D globe, live updates, and multi-source data ingestion
+- **Survey Link Generator & Wrapper** - Survey platform with scripting, routing, real-time collection, fraud prevention, and export workflows for market research operations
+- **ResearchDB Pro** - CRM and analytics platform with CATI integration, campaign workflows, RBAC, and respondent operations
+
+## Public repositories
+
+- [CivilAce_AWS-Data-Website](https://github.com/predictor47/CivilAce_AWS-Data-Website)
+- [cointos](https://github.com/predictor47/cointos)
+- [Gaze_Trcking_Virtual_Mouse-](https://github.com/predictor47/Gaze_Trcking_Virtual_Mouse-)
+- [Blood_Bank_Donation_Management_System](https://github.com/predictor47/Blood_Bank_Donation_Management_System)
+
+## Credentials
+
+- **AWS Cloud Practitioner Essentials**
+- **AI Engineer for Data Scientists Associate** - DataCamp ([credential](https://www.datacamp.com/certificate/AEDS0017539643800))
+
+## Tech focus
+
+**Languages:** TypeScript, JavaScript, Python, Dart, PHP, Java, C++, SQL  
+**Frontend:** React, Next.js, Vite, Flutter, Tailwind CSS  
+**Backend:** FastAPI, Django, Node.js, Express.js, GraphQL, WebSockets  
+**Cloud:** AWS Lambda, DynamoDB, Cognito, S3, CloudFront, API Gateway, SageMaker, Amplify Gen 2  
+**Infra & Tools:** Docker, Kubernetes, GitHub Actions, Linux, Postman, Git
+
+## GitHub stats
+
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=predictor47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predictor47&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ---
 
-## 🎯 About Me
-
-🌍 **Location:** Pakistan 🇵🇰  
-💼 **Current Focus:** Building innovative solutions and solving complex problems  
-🎓 **Learning:** Advanced Algorithms & System Design  
-🎯 **Interests:** Coding, Problem Solving, Open Source Contribution  
-💡 **Philosophy:** Always learning, always growing  
-
-> *"Thanks for visiting my profile! Let's build something amazing together!"*
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=predictor47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predictor47&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=predictor47&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Muneeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=predictor47&theme=tokyo-night)](https://github.com/predictor47/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🔥 Contribution Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=predictor47&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=predictor47&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneeb-ur-rehman-a13977207)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneeb.mg47@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/predictor47)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💬 "First, solve the problem. Then, write the code." – John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=predictor47&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-  
-⭐️ From [predictor47](https://github.com/predictor47)
-
-</div>
+If you're building something in AI, cloud, automation, or full-stack product engineering, feel free to reach out.
